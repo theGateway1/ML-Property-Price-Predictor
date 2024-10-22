@@ -1,3 +1,3 @@
 # Property Price Predictor
 
-This model helps to predict property price in Bengalaru
+This machine learning model helps to predict property price in Bengalaru. 
